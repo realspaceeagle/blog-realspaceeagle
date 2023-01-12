@@ -30,3 +30,4 @@ $ docker run -it --rm \
 
 After a while, navigate to the site at <http://localhost:4000>.
 
+### install
