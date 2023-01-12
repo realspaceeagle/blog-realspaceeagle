@@ -2,7 +2,7 @@
 layout: post
 title:  "HTB-BrainFucker-L-I"
 author: haran
-categories: [htblinux , htblinuxInsane]
+categories: [htblinuxInsane]
 image: post_img/writeups/htb/linux/1.jpg
 beforetoc: "BrainFucker"
 toc: true
