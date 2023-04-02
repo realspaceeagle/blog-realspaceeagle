@@ -6,7 +6,7 @@
   /* Framework color */
   --body-bg: var(--main-wrapper-bg);
   --mask-bg: rgb(68, 69, 70);
-  --main-wrapper-bg: rgb(27, 27, 30);
+  --main-wrapper-bg: rgb(11, 11, 11);
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
@@ -28,7 +28,7 @@
   --checkbox-checked-color: var(--link-color);
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+  --sidebar-bg: radial-gradient(circle, #00202e 0%, #020203 100%);
   --sidebar-muted-color: #6d6c6b;
   --sidebar-active-color: rgb(255 255 255 / 80%);
   --nav-cursor-color: rgb(183, 182, 182);
