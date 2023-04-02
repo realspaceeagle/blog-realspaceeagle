@@ -34,7 +34,7 @@ html {
 $code-radius: 6px;
 
 %code-snippet-bg {
-  background: var(--highlight-bg-color);
+  // background: var(--highlight-bg-color);
 }
 
 %code-snippet-radius {
@@ -64,8 +64,8 @@ $code-radius: 6px;
   }
 
   overflow: auto;
-  padding-top: 0.5rem;
-  padding-bottom: 1rem;
+  // padding-top: 0.5rem;
+  // padding-bottom: 1rem;
 
   pre {
     margin-bottom: 0;
@@ -167,7 +167,7 @@ div {
     }
 
     td.rouge-code {
-      padding-left: 1.5rem;
+      // padding-left: 1.5rem;
     }
   }
 }
@@ -286,4 +286,104 @@ div {
       }
     }
   }
+}
+
+
+/* codeblock stlyes */
+.highlighter-rogue > .highlight {
+  background-color: #22272e;
+}
+
+.highlighter-rouge pre {
+  background: #22272e !important;
+}
+
+.highlighter-rouge code {
+  background-color: #22272e;
+  color: #e6e6e6;
+}
+
+div .highlight {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.highlighter-rouge .ne,
+.highlighter-rouge .nf {
+  color: #ff6666bb;
+}
+
+.highlighter-rouge .s,
+.highlighter-rouge .se,
+.highlighter-rouge .s1,
+.highlighter-rouge .s2,
+.highlighter-rouge .si {
+  color: #e46;
+}
+
+.highlighter-rouge .mi,
+.highlighter-rouge .nb {
+  color: #3cc;
+}
+
+.highlighter-rouge .nt,
+.highlighter-rouge .nn {
+  color: #77f;
+}
+
+.highlighter-rouge .err {
+  background-color: unset;
+}
+
+/* console last to override default codeblocks */
+.language-console:before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  margin: -20px 0 0 5px;
+  border-radius: 5px;
+  background:  #f25d2b;
+  box-shadow: 0 0 0 1px #595953, 15px 0 #7d7871, 15px 0 0 1px #595953, 30px 0 #7d7871, 30px 0 0 1px #595953;
+  position: absolute;
+}
+
+.language-console {
+  padding: 26px 0px 0px;
+  border-radius: 5px;
+
+  /* last one defines what's below the bar - eef is original */
+  background: linear-gradient(#504b45, #3c3b37 20px, #3c3b37 20px, #3c3b37 21px, #380428 21px);
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.25);
+}
+
+.language-console pre {
+  border: none;
+  background: #380428 !important;
+}
+
+.language-console code {
+  background-color: #380428;
+  color: #ffd;
+}
+
+.language-console .gp {
+  color: #8d4;
+}
+
+.language-console .nt {
+  color: #99f;
+}
+
+.language-console .go {
+  color: #fff;
+}
+
+.language-console .highlight {
+  border: none;
+}
+
+.language-console .s,
+.language-console .s2,
+.language-console .nn {
+  color: #2ad;
 }

@@ -42,6 +42,7 @@ h1 {
   @extend %heading;
 
   font-size: 1.9rem;
+  color: #DB2C17
 }
 
 h2 {
@@ -50,6 +51,7 @@ h2 {
   @extend %anchor;
 
   font-size: 1.5rem;
+  color: #4B9CD3
 }
 
 h3 {
@@ -58,6 +60,7 @@ h3 {
   @extend %anchor;
 
   font-size: 1.2rem;
+  color: #FFFF99
 }
 
 h4 {
@@ -66,6 +69,7 @@ h4 {
   @extend %anchor;
 
   font-size: 1.15rem;
+  color:#B55A30
 }
 
 h5 {
@@ -431,6 +435,7 @@ img[data-src] {
 .post-meta {
   font-size: 0.85rem;
   word-spacing: 1px;
+  color: greenyellow;
 
   a {
     &:not(:last-child) {
@@ -453,6 +458,7 @@ img[data-src] {
   margin-top: 2rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
+  
 
   a {
     &:not(.img-link) {
@@ -530,7 +536,8 @@ img[data-src] {
   background: var(--tag-bg);
   border-radius: 0.3rem;
   padding: 0 0.4rem;
-  color: inherit;
+  // color: inherit;
+  color: #F5DF4D;
   line-height: 1.3rem;
 
   &:not(:last-child) {
