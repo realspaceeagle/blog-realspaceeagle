@@ -8,7 +8,7 @@ beforetoc: "nmap  scripts and explanations for better reconnaissance"
 toc: true
 ---
 
-![nmap]({{ site.baseurl }}_posts/haloSecurity/Generic_Methodology/nmap.png)
+![nmap]({{ site.baseurl }}/_posts/haloSecurity/Generic_Methodology/nmap.png)
 
 
 ```console?Prompt$
