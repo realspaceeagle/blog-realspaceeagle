@@ -4,7 +4,7 @@ title: "A Comprehensive Guide to implemet endpoint security with Elastic Search"
 author: HL
 categories: [Elastic Search,End Point Security]
 image: /post_img/halosec/post1/elastic.png
-beforetoc: "In today's digital landscape, effective log management and security monitoring are crucial for organizations to detect and respond to potential threats. Elastic Stack, with its powerful tools like Elastic 8, Kibana, Fleet, and Endpoint Security, offers a robust solution for log collection, analysis, and endpoint protection. In this blog post, we will provide a step-by-step guide to setting up Elastic 8 with Kibana, Fleet, Endpoint Security, and Windows log collection, enabling you to enhance your organization's security posture"
+beforetoc: "In today's digital landscape, effective log management and security monitoring are crucial for organizations to detect and respond to potential threats. Elastic Stack, with its powerful tools like Elastic 8, Kibana, Fleet, and Endpoint Security, offers a robust solution for log collection, analysis, and endpoint protection. In this blog post, we will provide a step-by-step guide to setting up Elastic 8 with Kibana, Fleet, Endpoint Security, and Windows log collection, enabling you to enhance your organization's security posture."
 toc: true
 published: true
 tags: [SIEM,EndPointSecurity]
