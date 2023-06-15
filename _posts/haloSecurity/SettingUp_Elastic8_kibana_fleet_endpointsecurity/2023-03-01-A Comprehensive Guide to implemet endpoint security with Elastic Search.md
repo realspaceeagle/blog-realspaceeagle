@@ -7,7 +7,7 @@ image: /post_img/halosec/post1/elastic.png
 beforetoc: "In today's digital landscape, effective log management and security monitoring are crucial for organizations to detect and respond to potential threats. Elastic Stack, with its powerful tools like Elastic 8, Kibana, Fleet, and Endpoint Security, offers a robust solution for log collection, analysis, and endpoint protection. In this blog post, we will provide a step-by-step guide to setting up Elastic 8 with Kibana, Fleet, Endpoint Security, and Windows log collection, enabling you to enhance your organization's security posture."
 toc: true
 published: true
-tags: [SIEM,EndPointSecurity]
+tags: [SIEM,EndPointSecurity,Elastic Search,Sysmon]
 description: Port 80/443 reconnaisance
 ---
 In today's rapidly evolving digital landscape, organizations face ever-increasing security challenges. Endpoint security, which focuses on protecting individual devices such as laptops, desktops, and servers, plays a critical role in safeguarding against cyber threats. To effectively manage and secure endpoints at scale, organizations turn to powerful tools like Elastic and Fleet Management.
