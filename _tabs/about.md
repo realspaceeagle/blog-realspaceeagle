@@ -4,92 +4,44 @@ icon: fas fa-info-circle
 order: 4
 toc: true
 ---
-> **About Me**
+> **About Us**
 {: .prompt-tip }
 
-`Araharan Loganayagam is a Security Engineer. He has 2+ years of experience in multiple disciplines of Cyber Security and Forensics with area of proficiency in cloud, network security and application security.He is a Information Technology graduate from University of Moratuwa,SriLanka.`
+Welcome to the Halo Sec blog!
 
-![Desktop View](/commons/about.png){: width="500" height="250" }
-_Full screen width and center alignment_
+`We are a cybersecurity and DevOps company that helps businesses protect themselves from cyberattacks while also improving their software delivery processes.`
 
-> **Skills**
+In this blog, we will be writing about a variety of topics related to cybersecurity and DevOps, including:
+
+- [x] Penetration Testing
+- [x] Web Application Security Testing
+- [x] Mobile Application Security Testing
+- [x] Cloud Security
+- [x] Network Security 
+- [x] Red Team Strategies
+- [x] Security best practices
+- [x] Threat intelligence
+- [x] Vulnerability management
+- [x] Incident response
+- [x] Automation
+- [x] Compliance
+- [x] DevOps practices
+- [x] Continuous integration and continuous delivery (CI/CD)
+- [x] Infrastructure as code
+
+
+We hope you will find our blog informative and helpful. If you have any questions or suggestions, please feel free to leave a comment.
+
+> **Here are some of the things you can expect from our blog:**
 {: .prompt-tip }
 
+- Up-to-date information on the latest cybersecurity and DevOps trends
+- Insights from our team of experts
+- Practical advice that you can use to improve your security posture and software delivery processes
+- A community of like-minded professionals
+- We are committed to helping businesses succeed in the digital age. We believe that security and agility are not mutually exclusive, and we are passionate about helping businesses achieve both.
 
-- **<kbd>Golang,Java,Python</kbd>**  **`*``*``*``*`***
-- **<kbd>Web Application Penetration Testing</kbd>** **`*``*``*``*`***
-- **<kbd>Source Code Review</kbd>**  **`*``*``*`****
-- **<kbd>Security Tools - Burp Suite, Nmap, Metasploit, Sqlmap & Others</kbd>**  **`*``*``*``*`***
-- **<kbd>Writing & Communication - Blogs, Articles & Reports</kbd>**
-- **<kbd>API Penetration Testing</kbd>**  **`*``*``*``*`***
-- **<kbd>Cloud & Container Configuration Review [AWS, Azure & Docker]</kbd>**  **`*``*``*``*`***
-
-
-> **Education**
-{: .prompt-tip }
-
-
-
-- [x] St.John'sCollege,
-- [ ] Jaffna
-- [ ] Physical Science
-
----
-
-- [x] University of Moratuwa
-- [ ] BSc(Hons) Information Technology
-- [ ] Cum GPA 3.46
-
-> **Experience**
-{: .prompt-tip }
-
-- [x] TECEZE Ltd
-- [ ] Security Engineer
-- [ ] 2021 \- 2022
-
----
-
-- Conducted Web-Application and Mobile Application
-SecurityTesting , codereviews
-- Implement and maintain security process and startegy
-Inside agile software developmentlifecycle.
-- Performed server-side vulnerability assessment
-through penetration testing.
-
-<kbd> Application Security</kbd> ,<kbd>OWASP TOP 10 </kbd> ,<kbd> Burp Suite </kbd>
-
----
----
-- [x] Senzmate (pvt) Ltd
-- [ ] Software Engineer Intern
-- [ ] 2019 \- 2020
-
----
-
-- Worked on IOT related platform to analyze sensor data
-- Contributed in developing SenzAgro interactive web-
-Client.
-- Full stack contribution in development
-
-<kbd> Spring boot</kbd> ,<kbd>Angular </kbd> ,<kbd> AWS</kbd>
-
-
-> **Project & Publications**
-{: .prompt-tip }
-
-
-
-> **Wall of Fame**
-{: .prompt-tip }
-
-
-
-> **Certifications & Achievements**
-{: .prompt-tip }
-
-
-> **Blogs**
-{: .prompt-tip }
+**<kbd>We invite you to join us on our journey. Thank you for reading!</kbd>**
 
 
 > **Talks & Sessions**

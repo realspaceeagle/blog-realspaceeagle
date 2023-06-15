@@ -27,20 +27,20 @@ timezone: Asia/Shanghai
 
 title: Halo Security                 # the main title
 
-tagline: Personal blog and archives   # it will display as the sub-title
+tagline: Security Blog   # it will display as the sub-title
 
-description: Araharan Loganayagam is a Security Engineer. He has 2+ years of experience in multiple disciplines of Cyber Security and Forensics with area of proficiency in cloud, network security and application security.He is a Information Technology graduate from University of Moratuwa,SriLanka.
+description: We are a cybersecurity and DevOps company that helps businesses protect themselves from cyberattacks while also improving their software delivery processes.
                        # used by seo meta and the atom feed
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://github.com/realspaceeagle"
+url: ""
 
 github:
-  username: realspaceeagle             # change to your github username
+  username:             # change to your github username
 
 twitter:
-  username: halo_sec            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -49,8 +49,8 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/halo_sec     # change to your twitter homepage
-    - https://github.com/realspaceeagle      # change to your github homepage
+         # change to your twitter homepage
+          # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
