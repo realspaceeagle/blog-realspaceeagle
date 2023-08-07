@@ -62,7 +62,7 @@ Fleet Management provides real-time monitoring and alerting capabilities for end
 
 - Integration with Elastic Features:
 
-Fleet Management seamlessly integrates with other features of the Elastic Stack. For example, administrators can correlate endpoint data with log data stored in Elasticsearch to gain comprehensive insights into security incidents. It also leverages Elasticsearch's powerful search capabilities to facilitate fast and efficient querying of endpoint data.
+Fleet Management seamlessly integrates with other features of the Elastic Stack. For example, administrators can correlate endpoint data with log data stored in Elasticsearch to gain comprehensive insights into security incidents. It also leverages Elasticsearch's powerful search capabilities to facilitate fast and efficient querying of endpoint data ./
 
 
 ## Configuring Elastic search in Ubuntu server 
