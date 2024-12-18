@@ -19,7 +19,7 @@ Fleet Management, a component of Elastic, enhances the capabilities of Elastic b
 In this blog post, we will explore the power of Elastic and Fleet Management in the realm of endpoint security. We will delve into the key features and benefits of using Elastic for endpoint security, along with the capabilities offered by Fleet Management. We will discuss how these tools integrate with existing security frameworks and enable organizations to detect, respond to, and prevent potential threats at the endpoint level.
 
 
-### Resources 
+### Resources Needed.
 
 CentOS/Ubuntu server  2x
   - 2 GB RAM 
