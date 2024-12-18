@@ -8,7 +8,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: '/'
 
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
@@ -34,7 +34,7 @@ description: We are a cybersecurity and DevOps company that helps businesses pro
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "/"
+url: "https://realspaceeagle.github.io"
 
 github:
   username:             # change to your github username
